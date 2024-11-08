@@ -12,7 +12,9 @@ function About() {
             <button className="flex uppercase gap-10 items-center px-10 py-6 bg-zinc-900 mt-10 rounded-full text-white">Read More</button>
             <div className="w-2 h-2 bg-zinc-100 rounded-full"></div>
             </div>
-            <div className="w-1/2 h-[70vh] rounded-3xl bg-[#b0c859] "></div>
+            <div className="w-1/2 h-[70vh] rounded-3xl bg-[#b0c859] ">
+            <img className="w-full h-full bg-cover rounded-xl" src="https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg" alt="" />
+            </div>
         </div>
     </div>
   )
